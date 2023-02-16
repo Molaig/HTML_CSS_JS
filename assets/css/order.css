@@ -1,0 +1,25 @@
+body {
+    font-style: italic;
+    font-size: 24px;
+    background-color: antiquewhite;
+}
+p {
+    color: goldenrod;
+    background-color: darkblue;
+}
+p {
+    color:brown;
+    background-color: darkkhaki
+}
+
+.ex {
+    color: green;
+} 
+
+p {
+    color: darkblue !important;
+} 
+
+#ex2 {
+    color: darkmagenta !important;
+}
